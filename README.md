@@ -2,6 +2,7 @@
 Second Revision of Personal Portfolio
 
 Updated Portfolio Page
+Week 13 of 24 (Bootcamp HW Assignment)
 
 
 Overview
