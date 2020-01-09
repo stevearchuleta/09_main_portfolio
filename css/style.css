@@ -909,8 +909,8 @@ a:hover, a:active {
       right: 0;
       transition: all 0.33s ease-out 0s; }
     .main-timeline .date-outer:before {
-      /* background: #fff; */
-      background-image: url('/Users/archuletasteve/Desktop/gitHub/portfolio_update/assets/images/muscari.jpeg');
+      background: #fff;
+      /* background-image: url('/Users/archuletasteve/Desktop/gitHub/portfolio_update/assets/images/muscari.jpeg'); */
       border: 2px solid #232323;
       left: -6px; }
     .main-timeline .date-outer:after {
